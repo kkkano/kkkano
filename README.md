@@ -42,4 +42,4 @@
 
 👀 **Visitor Count**: ![Visitor Count](https://profile-counter.glitch.me/kkkano/count.svg)
 
-💡 **Fun Fact**: "Coding is using machine's precision to fix human flaws... then creating new flaws."
+💡 **Fun Fact**: “AI is the future, backend is the foundation, and Python is the glue that binds them, enabling us to solve complex problems and drive innovation forward.”
