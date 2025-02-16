@@ -35,7 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkano&layout=compact&theme=default)](https://github.com/kkkano)
 
 ### ✍️ Technical Blog
-📚 Latest Articles from [My Tech Blog](https://allenblog.vercel.app)：
+📚 Latest Articles from [My Tech Blog](https://allenblog.vercel.app).
 
 ### 📫 Let's Connect
 <div style="display: flex; gap: 10px;">
