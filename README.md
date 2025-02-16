@@ -15,8 +15,7 @@
 ![](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 ![](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/-Web%20Scraping-2CA5E0?style=flat&logo=WebStorm&logoColor=white)
-![](https://img.shields.io/badge/-Power%20Automate-61DAFB?style=flat&logo=Power-Automate&logoColor=white)
-
+![](https://img.shields.io/badge/-Power%20Automate-0054A6?style=flat&logo=Microsoft-Power-Automate&logoColor=white)
 ### 🛠️ Technical Arsenal
 #### Backend Development
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
