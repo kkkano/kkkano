@@ -8,6 +8,8 @@
 ![](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
 
 🌱 **Currently Learning**:
+![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 ![](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
@@ -26,8 +28,6 @@
 #### AI & Automation
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/UiPath-009CE0?style=for-the-badge&logo=UiPath&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 ### 📈 GitHub Analytics
@@ -38,8 +38,9 @@
 📚 Latest Articles from [My Tech Blog](https://allenblog.vercel.app)：
 
 ### 📫 Let's Connect
-[![Email](https://img.shields.io/badge/📧%20Contact%20Me-657394554@qq.com-important?style=flat&logo=Gmail)](mailto:657394554@qq.com)
+[![Email](https://img.shields.io/badge/📧%20Contact%20Me-657394554@qq.com-important?style=flat&logo=gmail&logoColor=white)](mailto:657394554@qq.com)
 
 👀 **Visitor Count**: ![Visitor Count](https://profile-counter.glitch.me/kkkano/count.svg)
 
-💡 **Fun Fact**: 当我在解决自动化问题时，我的代码会自己写自己！🤖
+💡 **Fun Fact**: "Coding is using machine's precision to fix human flaws... then creating new flaws."
+                        "编程的本质是用机器的精确性，弥补人类的不完美——然后创造出新的不完美"
