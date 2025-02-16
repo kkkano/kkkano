@@ -38,7 +38,7 @@
 📚 Latest Articles from [My Tech Blog](https://allenblog.vercel.app)：
 
 ### 📫 Let's Connect
-[![Email](https://img.shields.io/badge/📧%20Contact%20Me-wisdom_zhe@qq.com-important?style=flat&logo=Gmail)](mailto:657394554@qq.com)
+[![Email](https://img.shields.io/badge/📧%20Contact%20Me-657394554@qq.com-important?style=flat&logo=Gmail)](mailto:657394554@qq.com)
 
 👀 **Visitor Count**: ![Visitor Count](https://profile-counter.glitch.me/kkkano/count.svg)
 
