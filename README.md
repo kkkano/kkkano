@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Allen
 
-#### Software Engineer @ [Capgemini](https://www.capgemini.com/) | AI & Automation Enthusiast
+#### RPA Developer @ [Capgemini](https://www.capgemini.com/) | Former Backend Developer | AI & Automation Enthusiast
 ⚡ **Daily Tech Stack**: 
 ![](https://img.shields.io/badge/-VBA-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
 ![](https://img.shields.io/badge/-UiPath-009CE0?style=flat&logo=UiPath&logoColor=white)
