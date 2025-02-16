@@ -38,9 +38,11 @@
 📚 Latest Articles from [My Tech Blog](https://allenblog.vercel.app)：
 
 ### 📫 Let's Connect
-[![Email](https://img.shields.io/badge/📧%20Contact%20Me-657394554@qq.com-important?style=flat&logo=gmail&logoColor=white)](mailto:657394554@qq.com)
-[![QQ](https://img.shields.io/badge/QQ-657394554-blue?style=flat&logo=qq&logoColor=white)](https://wpa.qq.com/msgrd?v=1&uin=657394554&site=qq&menu=yes)  
-[![WeChat](https://img.shields.io/badge/WeChat-wx657394554-green?style=flat&logo=wechat&logoColor=white)](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=wx657394554)
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+    [![Email](https://img.shields.io/badge/📧%20Contact%20Me-657394554@qq.com-important?style=flat&logo=gmail&logoColor=white)](mailto:657394554@qq.com)
+    [![QQ](https://img.shields.io/badge/QQ-657394554-blue?style=flat&logo=qq&logoColor=white)](https://wpa.qq.com/msgrd?v=1&uin=657394554&site=qq&menu=yes)
+    [![WeChat](https://img.shields.io/badge/WeChat-wx657394554-green?style=flat&logo=wechat&logoColor=white)](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=wx657394554)
+</div>
 
 👀 **Visitor Count**: ![Visitor Count](https://profile-counter.glitch.me/kkkano/count.svg)
 
