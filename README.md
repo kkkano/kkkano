@@ -38,6 +38,7 @@
 📚 Latest Articles from [My Tech Blog](https://allenblog.vercel.app).
 
 ### 📫 Let's Connect
+Feel free to contact me anytime to discuss technology, collaboration, or any questions!
 <div style="display: flex; gap: 10px;">
     <a href="mailto:657394554@qq.com">
         <img src="https://img.shields.io/badge/📧%20Contact%20Me-657394554@qq.com-important?style=flat&logo=gmail&logoColor=white" alt="Email">
