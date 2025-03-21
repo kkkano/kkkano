@@ -50,9 +50,10 @@ Feel free to contact me anytime to discuss technology, collaboration, or any que
     <a href="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=wx657394554">
         <img src="https://img.shields.io/badge/WeChat-wx657394554-green?style=flat&logo=wechat&logoColor=white" alt="WeChat">
     </a>
-    <a href="https://www.linkedin.com/in/%E5%BC%A6-%E7%8E%8B-624583356/">
-        <img src="https://img.shields.io/badge/LinkedIn-%E5%BC%A6%20%E7%8E%8B-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/AllenWangQWQ/">
+    <img src="https://img.shields.io/badge/LinkedIn-Allen-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
+
 </div>
 
 👀 **Visitor Count**: ![Visitor Count](https://profile-counter.glitch.me/kkkano/count.svg)
