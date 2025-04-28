@@ -2,7 +2,7 @@
 
 #### RPA Developer @ [Capgemini](https://www.capgemini.com/) | Former Backend Developer | AI & Automation Enthusiast
 ⚡ **Daily Tech Stack**: 
-![](https://img.shields.io/badge/-VBA-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
+![image-0](https://img.shields.io/badge/-VBA-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
 ![](https://img.shields.io/badge/-UiPath-009CE0?style=flat&logo=UiPath&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
