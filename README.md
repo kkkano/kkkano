@@ -45,7 +45,8 @@ Feel free to contact me anytime to discuss technology, collaboration, or any que
 [![WeChat](https://img.shields.io/badge/WeChat-wx657394554-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=wx657394554)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Allen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AllenWangQWQ/)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kkkano.profile)
+![Visitors](https://count.getloli.com/get/@kkkano?theme=asoul)
+
 
 </div>
 
