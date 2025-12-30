@@ -33,10 +33,12 @@
 
 ### 📈 GitHub Analytics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkkano&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkkano&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kkkano&theme=dracula)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kkkano&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/kkkano)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkkano&theme=github_dark)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkkano&theme=github_dark" width="400"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkkano&theme=github_dark" width="400"/>
 ### ✍️ Technical Blog
 📚 Latest Articles from [My Tech Blog](https://allenblog.vercel.app).
 
