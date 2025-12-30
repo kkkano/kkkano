@@ -32,8 +32,8 @@
 ![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 ### 📈 GitHub Analytics
-[![Kanon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkkano&show_icons=true&theme=default&hide_title=true)](https://github.com/kkkano)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkano&layout=compact&theme=default)](https://github.com/kkkano)
+[![Allen's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kkkano&show_icons=true&hide_title=true)](https://github.com/kkkano)
+![Metrics](https://metrics.lecoq.io/kkkano?template=classic&languages=1&activity=1)
 
 ### ✍️ Technical Blog
 📚 Latest Articles from [My Tech Blog](https://allenblog.vercel.app).
