@@ -33,11 +33,8 @@
 
 ### 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkkano&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkano&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkkano&theme=dark&hide_border=true&background=0D1117)
+![GitHub Stats](https://raw.githubusercontent.com/kkkano/kkkano/main/stats/github-stats.svg)
+![Top Langs](https://raw.githubusercontent.com/kkkano/kkkano/main/stats/top-langs.svg)
 
 
 ### ✍️ Technical Blog
