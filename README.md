@@ -25,7 +25,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkkano&theme=default" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkkano&theme=default" width="48%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kkkano&theme=default&hide_border=false&border_radius=8)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kkkano&theme=flat&column=6&margin-w=10&margin-h=10)](https://github.com/kkkano)
+
 
 </div>
 
