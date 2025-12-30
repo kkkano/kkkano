@@ -32,8 +32,12 @@
 ![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 ### 📈 GitHub Analytics
-[![Allen's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kkkano&show_icons=true&hide_title=true&theme=default)](https://github.com/kkkano)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kkkano&layout=compact&theme=default)](https://github.com/kkkano)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkkano&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkano&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kkkano&theme=dark&hide_border=true&background=0D1117)
 
 
 ### ✍️ Technical Blog
@@ -57,6 +61,8 @@ Feel free to contact me anytime to discuss technology, collaboration, or any que
 
 </div>
 
-👀 **Visitor Count**: ![Visitor Count](https://profile-counter.glitch.me/kkkano/count.svg)
+👀 **Visitor Count**: 
+
+![](https://komarev.com/ghpvc/?username=kkkano&color=blueviolet&style=flat-square&label=Profile+Views)
 
 💡 **Fun Fact**: “AI is the future, backend is the foundation, and Python is the glue that binds them, enabling us to solve complex problems and drive innovation forward.”
