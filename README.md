@@ -33,9 +33,9 @@
 
 ### 📈 GitHub Analytics
 
-![GitHub Stats](https://raw.githubusercontent.com/kkkano/kkkano/main/stats/github-stats.svg)
-![Top Langs](https://raw.githubusercontent.com/kkkano/kkkano/main/stats/top-langs.svg)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkkano&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkkano&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kkkano&theme=dracula)
 
 ### ✍️ Technical Blog
 📚 Latest Articles from [My Tech Blog](https://allenblog.vercel.app).
