@@ -8,11 +8,11 @@
 ⚡ **Daily Tech Stack**: 
 ![image-0](https://img.shields.io/badge/-VBA-217346?style=flat&logo=Microsoft-Excel&logoColor=white) ![](https://img.shields.io/badge/-UiPath-009CE0?style=flat&logo=UiPath&logoColor=white) ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
 
-🌱 **Currently Learning**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI%20Agent-000000?style=for-the-badge&logo=openai&logoColor=white)
+🌱 **Currently Learning**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-000000?style=flat&logo=openai&logoColor=white)
 
 ### 🛠️ Technical Arsenal
 
