@@ -5,22 +5,32 @@
 > 💼 **Focused on automating enterprise workflows, data pipelines, and system integrations**  
 > to improve efficiency and reliability.
 
-⚡ **Daily Tech Stack**: 
-![image-0](https://img.shields.io/badge/-VBA-217346?style=flat&logo=Microsoft-Excel&logoColor=white) ![](https://img.shields.io/badge/-UiPath-009CE0?style=flat&logo=UiPath&logoColor=white) ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
+⚡ **Daily Tech Stack**  
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-009CE0?style=flat-square&logo=uipath&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 🌱 **Currently Learning**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI%20Agent-000000?style=flat&logo=openai&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-000000?style=flat-square&logo=openai&logoColor=white)
 
 ### 🛠️ Technical Arsenal
 
 #### Backend Development
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white) ![](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 #### AI & Automation
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/UiPath-009CE0?style=for-the-badge&logo=UiPath&logoColor=white) ![](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-009CE0?style=flat-square&logo=uipath&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ### 📈 GitHub Analytics
 
